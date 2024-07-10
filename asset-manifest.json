@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.048daab3.css",
+    "main.js": "/static/js/main.4e486550.js",
+    "static/media/social-media-project.png": "/static/media/social-media-project.0c2cf8140f06aee40216.png",
+    "static/media/portfolio-project.png": "/static/media/portfolio-project.3f1271799e0999db5f9a.png",
+    "static/media/acrodeck.png": "/static/media/acrodeck.9cba5edd6173b674cab6.png",
+    "static/media/avatar.png": "/static/media/avatar.bee8b2bfad6961814b32.png",
+    "static/media/blog.png": "/static/media/blog.7d6cfe55164084ee0488.png",
+    "static/media/nolosware.png": "/static/media/nolosware.3a4aa89dbd98c0caa1b7.png",
+    "static/media/logo.png": "/static/media/logo.1ca771cbed667d0225c4.png",
+    "static/media/price-1.svg": "/static/media/price-1.63e79609e1df717d1bcca78284cf032d.svg",
+    "static/media/price-3.svg": "/static/media/price-3.038b1db83afb389d2c31f75d333a85a2.svg",
+    "static/media/price-2.svg": "/static/media/price-2.b077c6e5b05a1b9568884d0660aa1425.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.d1e6aa716242908998f6.svg",
+    "index.html": "/index.html",
+    "main.048daab3.css.map": "/static/css/main.048daab3.css.map",
+    "main.4e486550.js.map": "/static/js/main.4e486550.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.048daab3.css",
+    "static/js/main.4e486550.js"
+  ]
+}
